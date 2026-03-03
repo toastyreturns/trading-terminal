@@ -1,0 +1,51 @@
+{
+  "_note": "This is placeholder data. Run GitHub Actions to populate with real Yahoo Finance data.",
+  "groups": {
+    "Index": [
+      {"ticker":"SPY","name":"SPDR S&P 500 ETF","price":591.24,"chg_1d":0.06,"chg_1w":0.58,"chg_1m":-0.81,"ytd":-1.64,"w52_high_pct":-1.64,"w52_low_pct":42.46,"grade":"B","atrx":0.8,"rs_vs_spy":0.0,"rvol":1.0,"zscore":-0.21,"sma10":589,"sma20":585,"sma50":578,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":false,"sma20_slope":false,"change_dir":"â² MARKET UP"},
+      {"ticker":"QQQ","name":"Invesco QQQ Trust","price":508.09,"chg_1d":0.13,"chg_1w":1.11,"chg_1m":-2.22,"ytd":-4.54,"w52_high_pct":-4.54,"w52_low_pct":51.12,"grade":"B","atrx":-0.5,"rs_vs_spy":0.1,"rvol":0.9,"zscore":-0.03,"sma10":505,"sma20":498,"sma50":492,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":false,"sma20_slope":false,"change_dir":"â² MARKET UP"},
+      {"ticker":"IWM","name":"iShares Russell 2000","price":213.81,"chg_1d":0.92,"chg_1w":1.27,"chg_1m":1.60,"ytd":-2.86,"w52_high_pct":-2.86,"w52_low_pct":54.07,"grade":"B","atrx":1.1,"rs_vs_spy":0.86,"rvol":1.0,"zscore":0.26,"sma10":210,"sma20":207,"sma50":200,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":true,"sma20_slope":true,"change_dir":"â² MARKET UP"},
+      {"ticker":"DIA","name":"SPDR Dow Jones ETF","price":439.18,"chg_1d":-0.10,"chg_1w":0.24,"chg_1m":0.03,"ytd":-3.19,"w52_high_pct":-3.19,"w52_low_pct":33.54,"grade":"B","atrx":-0.2,"rs_vs_spy":-0.2,"rvol":0.8,"zscore":-1.35,"sma10":440,"sma20":441,"sma50":435,"above_sma10":false,"above_sma20":false,"above_sma50":true,"sma10_slope":false,"sma20_slope":false,"change_dir":"â¼ MARKET DOWN"}
+    ],
+    "Sectors": [
+      {"ticker":"XLE","name":"Energy SPDR","price":57.04,"chg_1d":2.00,"chg_1w":3.43,"chg_1m":11.73,"ytd":-1.45,"w52_high_pct":-1.45,"w52_low_pct":53.17,"grade":"A","atrx":2.1,"rs_vs_spy":1.94,"rvol":2.1,"zscore":1.85,"sma10":55,"sma20":53,"sma50":51,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":true,"sma20_slope":true,"change_dir":"â² MARKET UP"},
+      {"ticker":"XLI","name":"Industrial SPDR","price":178.90,"chg_1d":0.99,"chg_1w":2.33,"chg_1m":8.14,"ytd":-0.22,"w52_high_pct":-0.22,"w52_low_pct":58.67,"grade":"A","atrx":1.3,"rs_vs_spy":0.93,"rvol":1.8,"zscore":1.52,"sma10":176,"sma20":173,"sma50":168,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":true,"sma20_slope":true,"change_dir":"â² MARKET UP"},
+      {"ticker":"XLK","name":"Technology SPDR","price":139.54,"chg_1d":0.56,"chg_1w":0.74,"chg_1m":-3.02,"ytd":-8.79,"w52_high_pct":-8.79,"w52_low_pct":61.82,"grade":"C","atrx":-0.5,"rs_vs_spy":0.5,"rvol":0.6,"zscore":-0.49,"sma10":141,"sma20":143,"sma50":147,"above_sma10":false,"above_sma20":false,"above_sma50":false,"sma10_slope":false,"sma20_slope":false,"change_dir":"â² MARKET UP"},
+      {"ticker":"XLF","name":"Financial SPDR","price":51.30,"chg_1d":-0.25,"chg_1w":1.12,"chg_1m":-4.00,"ytd":-9.22,"w52_high_pct":-9.22,"w52_low_pct":21.54,"grade":"C","atrx":-1.1,"rs_vs_spy":-0.31,"rvol":0.8,"zscore":-1.14,"sma10":52,"sma20":53,"sma50":55,"above_sma10":false,"above_sma20":false,"above_sma50":false,"sma10_slope":false,"sma20_slope":false,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"XLV","name":"Health Care SPDR","price":158.53,"chg_1d":-1.04,"chg_1w":-0.01,"chg_1m":2.45,"ytd":-1.28,"w52_high_pct":-1.28,"w52_low_pct":24.48,"grade":"B","atrx":0.2,"rs_vs_spy":-1.1,"rvol":1.1,"zscore":1.09,"sma10":159,"sma20":158,"sma50":156,"above_sma10":false,"above_sma20":true,"above_sma50":true,"sma10_slope":false,"sma20_slope":true,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"XLY","name":"Cons Disc SPDR","price":115.42,"chg_1d":-1.23,"chg_1w":0.37,"chg_1m":-4.75,"ytd":-7.67,"w52_high_pct":-7.67,"w52_low_pct":33.33,"grade":"C","atrx":-0.9,"rs_vs_spy":-1.29,"rvol":1.5,"zscore":-1.16,"sma10":118,"sma20":120,"sma50":123,"above_sma10":false,"above_sma20":false,"above_sma50":false,"sma10_slope":false,"sma20_slope":false,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"XLP","name":"Cons Staples SPDR","price":88.71,"chg_1d":-1.44,"chg_1w":-0.29,"chg_1m":6.23,"ytd":-1.59,"w52_high_pct":-1.59,"w52_low_pct":18.03,"grade":"B","atrx":0.5,"rs_vs_spy":-1.5,"rvol":0.9,"zscore":0.49,"sma10":89,"sma20":88,"sma50":86,"above_sma10":false,"above_sma20":true,"above_sma50":true,"sma10_slope":false,"sma20_slope":true,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"XLU","name":"Utilities SPDR","price":47.37,"chg_1d":-0.75,"chg_1w":1.48,"chg_1m":9.53,"ytd":-0.90,"w52_high_pct":-0.90,"w52_low_pct":33.40,"grade":"A","atrx":0.9,"rs_vs_spy":-0.81,"rvol":0.7,"zscore":1.15,"sma10":47,"sma20":46,"sma50":44,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":true,"sma20_slope":true,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"XLB","name":"Materials SPDR","price":53.25,"chg_1d":-0.30,"chg_1w":0.55,"chg_1m":8.08,"ytd":-1.64,"w52_high_pct":-1.64,"w52_low_pct":45.61,"grade":"B","atrx":0.7,"rs_vs_spy":-0.36,"rvol":0.7,"zscore":0.70,"sma10":53,"sma20":52,"sma50":50,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":false,"sma20_slope":true,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"XLC","name":"Comm Svc SPDR","price":117.87,"chg_1d":-0.15,"chg_1w":2.18,"chg_1m":-1.84,"ytd":-2.09,"w52_high_pct":-2.09,"w52_low_pct":40.27,"grade":"B","atrx":0.1,"rs_vs_spy":-0.21,"rvol":0.9,"zscore":1.06,"sma10":118,"sma20":117,"sma50":115,"above_sma10":false,"above_sma20":true,"above_sma50":true,"sma10_slope":false,"sma20_slope":true,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"XLRE","name":"Real Estate SPDR","price":43.92,"chg_1d":0.18,"chg_1w":0.71,"chg_1m":6.01,"ytd":-0.32,"w52_high_pct":-0.32,"w52_low_pct":22.78,"grade":"A","atrx":1.0,"rs_vs_spy":0.12,"rvol":1.1,"zscore":1.04,"sma10":43,"sma20":43,"sma50":42,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":true,"sma20_slope":true,"change_dir":"â² MARKET UP"},
+      {"ticker":"XBI","name":"S&P Biotech ETF","price":126.55,"chg_1d":-0.64,"chg_1w":-0.33,"chg_1m":1.44,"ytd":-4.18,"w52_high_pct":-4.18,"w52_low_pct":89.82,"grade":"B","atrx":0.4,"rs_vs_spy":-0.7,"rvol":1.0,"zscore":0.36,"sma10":127,"sma20":127,"sma50":124,"above_sma10":false,"above_sma20":false,"above_sma50":true,"sma10_slope":false,"sma20_slope":false,"change_dir":"â¼ MARKET DOWN"}
+    ],
+    "Other Assets": [
+      {"ticker":"GLD","name":"SPDR Gold Trust","price":290.00,"chg_1d":1.29,"chg_1w":1.81,"chg_1m":10.12,"ytd":-4.70,"w52_high_pct":-4.70,"w52_low_pct":84.83,"grade":"A","atrx":1.8,"rs_vs_spy":1.23,"rvol":0.6,"zscore":1.79,"sma10":285,"sma20":279,"sma50":268,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":true,"sma20_slope":true,"change_dir":"â² MARKET UP"},
+      {"ticker":"TLT","name":"20+ Year Treasury Bond","price":89.61,"chg_1d":-1.00,"chg_1w":-0.14,"chg_1m":2.85,"ytd":-4.76,"w52_high_pct":-4.76,"w52_low_pct":7.58,"grade":"B","atrx":0.6,"rs_vs_spy":-1.06,"rvol":0.8,"zscore":0.58,"sma10":90,"sma20":90,"sma50":89,"above_sma10":false,"above_sma20":false,"above_sma50":true,"sma10_slope":false,"sma20_slope":false,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"USO","name":"US Oil Fund","price":87.19,"chg_1d":6.39,"chg_1w":7.78,"chg_1m":9.65,"ytd":-1.62,"w52_high_pct":-1.62,"w52_low_pct":43.69,"grade":"A","atrx":3.0,"rs_vs_spy":6.33,"rvol":3.0,"zscore":2.97,"sma10":83,"sma20":80,"sma50":76,"above_sma10":true,"above_sma20":true,"above_sma50":true,"sma10_slope":true,"sma20_slope":true,"change_dir":"â² MARKET UP"},
+      {"ticker":"UUP","name":"US Dollar Index","price":27.33,"chg_1d":0.92,"chg_1w":0.89,"chg_1m":1.79,"ytd":-6.34,"w52_high_pct":-6.34,"w52_low_pct":3.52,"grade":"A","atrx":2.3,"rs_vs_spy":0.86,"rvol":1.2,"zscore":2.30,"sma10":27,"sma20":27,"sma50":27,"above_sma10":true,"above_sma20":true,"above_sma50":false,"sma10_slope":true,"sma20_slope":false,"change_dir":"â² MARKET UP"},
+      {"ticker":"IBIT","name":"iShares Bitcoin Trust","price":39.19,"chg_1d":5.39,"chg_1w":7.24,"chg_1m":-17.47,"ytd":-45.42,"w52_high_pct":-45.42,"w52_low_pct":11.05,"grade":"C","atrx":-0.2,"rs_vs_spy":5.33,"rvol":2.1,"zscore":0.15,"sma10":40,"sma20":42,"sma50":48,"above_sma10":false,"above_sma20":false,"above_sma50":false,"sma10_slope":false,"sma20_slope":false,"change_dir":"â² MARKET UP"},
+      {"ticker":"EEM","name":"MSCI Emerging Markets","price":61.50,"chg_1d":-1.73,"chg_1w":-0.24,"chg_1m":4.06,"ytd":-6.76,"w52_high_pct":-6.76,"w52_low_pct":61.59,"grade":"B","atrx":0.4,"rs_vs_spy":-1.79,"rvol":0.8,"zscore":0.35,"sma10":62,"sma20":62,"sma50":61,"above_sma10":false,"above_sma20":false,"above_sma50":true,"sma10_slope":false,"sma20_slope":false,"change_dir":"â¼ MARKET DOWN"},
+      {"ticker":"SLV","name":"iShares Silver Trust","price":81.57,"chg_1d":-4.02,"chg_1w":1.24,"chg_1m":8.13,"ytd":-25.72,"w52_high_pct":-25.72,"w52_low_pct":207.0,"grade":"C","atrx":1.2,"rs_vs_spy":-4.08,"rvol":0.6,"zscore":1.20,"sma10":83,"sma20":82,"sma50":79,"above_sma10":false,"above_sma20":false,"above_sma50":true,"sma10_slope":false,"sma20_slope":false,"change_dir":"â¼ MARKET DOWN"}
+    ]
+  },
+  "regime": {
+    "market_regime": "CHOP",
+    "daily_buy": "NO",
+    "weekly_buy": "NO",
+    "sma10_gt_20": "NO",
+    "net_52w": "YES",
+    "tractions": "NO",
+    "intraday_action": "ð¡ MIXTO (Wait)",
+    "vix": 18.24,
+    "vix_chg": 7.96,
+    "greed_fear": "ð¡ RANGE",
+    "sentiment": "ð´ RISK OFF",
+    "macro_bonds": "ð¡ Risk-On / Ratesâ (Stocksâ Bondsâ)",
+    "macro_uup": "ð§¸ BEARISH TREND (USD Strong)",
+    "net_52w_detail": "12 near high / 8 near low",
+    "tractions_detail": "4/12 sectors trending"
+  }
+}
